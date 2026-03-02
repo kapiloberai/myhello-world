@@ -86,6 +86,7 @@
 { "type": "Feature", "properties": { "OBJECTID": 81, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.055248205666743, 30.311221028857588 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 82, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.053774135727352, 30.310853763172435 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 83, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.057967968748869, 30.322353756440627 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 84, "Name": "KV UPPER CAMP", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.066151558299111, 30.370903649073728 ] } }
+{ "type": "Feature", "properties": { "OBJECTID": 84, "Name": "KV UPPER CAMP", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.066151558299111, 30.370903649073728 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 22, "Name": "GID", "ID": 22 }, "geometry": { "type": "Point", "coordinates": [ 78.043883868461904, 30.340133620203758 ] } }
 ]
 }
