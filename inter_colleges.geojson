@@ -81,7 +81,7 @@
 { "type": "Feature", "properties": { "OBJECTID": 76, "Name": null, "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.073354404206498, 30.3447637528675 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 77, "Name": "GOVT GIRLS SCHOOL", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.051020709784055, 30.332384560362772 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 78, "Name": "ST JOSEPH ACADEMY", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.047853957903513, 30.328999000206942 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 79, "Name": "CONVENT SCHOOL", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.043415637532874, 30.321581721559237 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 79, "Name": "CONVENT SCHOOL-changed name", "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.043415637532874, 30.321581721559237 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 80, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.055506541310038, 30.314513314110446 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 81, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.055248205666743, 30.311221028857588 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 82, "Name": null, "ID": 5 }, "geometry": { "type": "Point", "coordinates": [ 78.053774135727352, 30.310853763172435 ] } },
